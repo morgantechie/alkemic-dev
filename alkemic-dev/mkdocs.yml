@@ -1,0 +1,8 @@
+site_name: Alkemic Dev
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: orange
+extra_css:
+  - stylesheets/extra.css
